@@ -12,8 +12,8 @@ to run program first you need to insert/modify to your own database in the datab
 created there you need to change it to your database host, user, password, database.
 
 ####
-some features like table formate or structure i have used pandas library for results to show in table manner
-and for inserting password at run time to hide it i have used maskpass 
+for table formate or structured result i have used pandas library for results to show in table manner
+and for inserting password at run time to hide it maskpass library is used
 
 to run program check libraries are installed or not
 ###
