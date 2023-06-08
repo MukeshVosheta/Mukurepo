@@ -1,6 +1,6 @@
 # Mukurepo
-Application that can handle shop basic registration an shop products in database perform CRUD operation on database 
-using SQL queries and how to order are inserted in the database
+Application that can handle shop basic registration an shop products in database performing CRUD operation in databases 
+using SQL queries
 
 It is and command line execution program on a terminal where user choose option numbers to select there feature or function to use
 
