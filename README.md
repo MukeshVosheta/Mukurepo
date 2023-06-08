@@ -8,7 +8,7 @@ In the project mostly used features are given, some features are not provided ca
 or filter function not given at the moment
 
 ####
-to run program first you need to select or insert your own database in the database.py where ( con ) object has 
+to run program first you need to insert/modify to your own database in the database.py where ( con ) object has 
 created there you need to change it to your database host, user, password, database.
 
 ####
