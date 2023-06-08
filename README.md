@@ -4,7 +4,7 @@ using SQL queries
 
 It is and command line execution program on a terminal where user choose option numbers to select there feature or function to use
 
-In the project mostly used features are given cause it's a non interface used program some features like sorting
+In the project mostly used features are given, some features are not provided cause it's a no interface used program, some features like sorting
 or filter function not given at the moment
 
 ####
